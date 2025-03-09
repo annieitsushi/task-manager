@@ -4,7 +4,7 @@ Task Manager is a web application designed to help users create, manage, and tra
 
 ## Features
 
-- User authentication (registration & login)
+- User authentication
 - Task creation and management
 - Assign priorities to tasks
 - Track task status (TODO, IN_PROGRESS, DONE)
